@@ -2,4 +2,4 @@
 -- Admin
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/Admin/refs/heads/main/Admin"))()
 -- BRUTON HUB 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/Brookhaven/refs/heads/main/V2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/BRUTON/refs/heads/main/V2.1"))()
