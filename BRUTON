@@ -1,5 +1,5 @@
 -- I love you
 -- Admin
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/Admin/refs/heads/main/Admin"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/Admin/refs/heads/main/ADMIN%20v1"))()
 -- BRUTON HUB 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/Brookhaven/refs/heads/main/Vx"))()
