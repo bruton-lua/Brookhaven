@@ -1,0 +1,3 @@
+-- It's just a trial run. 
+-- I don't want any requests regarding language; I will not give up Arabic. 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua/BRUTON/refs/heads/main/BRUTON%20AVATAR"))()
